@@ -46,6 +46,9 @@ Which of them has the highest complaints.
 ##### Task: 
 Which call center received the highest and least complaints within the year.
 
+![Data cleaning](photo_2024-01-12_22-36-27.jpg)
+
+photo_2024-01-12_22-36-27.jpg
 
 # Data Collection and Cleaning:
  The datasets were obtained from Her Data Project as a CSV file, now hosted on Excel. I went ahead and duplicated the table in other to maintain originality, confirmed their data types, validated my dataset, and inserted a new sheet where I placed my pivot table.
